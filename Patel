@@ -1,0 +1,8 @@
+#include <lib.h>
+#define ROOT (0)
+#define STOP (0)
+#define FORWARD (1)
+#define LEFT (2)
+#define RIGHT (3)
+//was thinking of creating code for any randon robot//
+// not giving any function or defining integers right now:)//
